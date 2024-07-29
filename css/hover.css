@@ -4,3 +4,8 @@
     color: red;
     padding: 30px;
 }
+
+.mybtn:hover {
+    background-color: white;
+    color: black;
+}

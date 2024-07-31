@@ -3,3 +3,7 @@
     justify-content: space-evenly;
     /* justify-content: flex-end, flex-start, space-around,center */
 }
+p{
+    text-decoration: underline;
+    /* line-through, overline */
+}
